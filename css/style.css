@@ -1,5 +1,5 @@
 
-#nav-bar {
+#navbar {
     position: fixed;
     height: 100%;
     min-width: 300px;
@@ -13,4 +13,5 @@
     padding: 75px 0px;
     z-index: 3;
   }
+
   
